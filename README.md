@@ -8,7 +8,7 @@
 <ul>
 <li>I'm a Full Stack Developer skilled in building end-to-end applications.</li>
 <li>A fast learner who easily transitions between technology stacks.</li>
-<li>Developing a foundational understanding of Web3 through online exploration.</li>
+<li>Exploring Web3 concepts through online resources.</li>
 <li>Currently working at Spenza as a full stack intern.</li>
 </ul>
 </p>
