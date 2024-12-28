@@ -1,6 +1,6 @@
 <h1 align="left" style="text-decoration: none; border: none;">Hii, Garvit this side!</h1>
 
-[![](https://visitcount.itsvg.in/api?id=GarvitDadheech&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=GarvitDadheech&abbreviated=true)](https://visitcount.itsvg.in)
 
 ---
 
