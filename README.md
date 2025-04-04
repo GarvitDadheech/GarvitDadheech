@@ -18,8 +18,8 @@
 <div align="left">
   <h3>Contact me:</h3>
   <ul>
-    <li>Email: <a href="mailto:garvitdadheech9170@gmail.com">garvitdadheech9170@gmail.com</a></li>
-    <li>Twitter: <a href="https://x.com/gambishhhh" target="_blank">@gambishhhh</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/garvit-dadheech/" target="_blank">garvit-dadheech</a></li>
+    <li>email: <a href="mailto:garvitdadheech9170@gmail.com">garvitdadheech9170@gmail.com</a></li>
+    <li>twitter: <a href="https://x.com/gambishhhh" target="_blank">@gambishhhh</a></li>
+    <li>linkedIn: <a href="https://www.linkedin.com/in/garvit-dadheech/" target="_blank">garvit-dadheech</a></li>
   </ul>
 </div>
