@@ -6,10 +6,10 @@
 
 <p align="left">
 <ul>
-<li>I'm a Full Stack Developer skilled in building end-to-end applications.</li>
-<li>A fast learner, adaptable to any tech stack, and transitions seamlessly between technologies.</li>
-<li>Exploring Web3 concepts through online resources.</li>
-<li>Currently working at Spenza as a full stack intern.</li>
+<li>full stack developer — love building end-to-end products that actually *work*.</li>
+<li>a fast learner, adaptable to any tech stack, and transitions seamlessly between technologies.</li>
+<li>currently dev @<strong><a href="https://x.com/swifeyai">SwifeyAI</a></strong> — a dating app for crypto people.</li>
+<li>exploring Web3 concepts & on-chain dev through online resources.</li>
 </ul>
 </p>
 
