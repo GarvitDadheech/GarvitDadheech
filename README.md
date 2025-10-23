@@ -8,7 +8,7 @@
 <ul>
 <li>full stack developer — love building end-to-end products that go from idea to impact.</li>
 <li>fast learner, adaptable to any tech stack, and able to transition seamlessly between technologies.</li>
-<li>currently shipping love on-chain <strong><a href="https://x.com/swifeyai">@SwifeyAI</a></strong> — a dating app 🩷</li>
+<li>currently shipping love <strong><a href="https://x.com/swifeyai">@SwifeyAI</a></strong> — a dating app 🩷</li>
 <li>exploring web3 concepts & on-chain development through online resources.</li>
 </ul>
 </p>
